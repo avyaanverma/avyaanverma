@@ -1,4 +1,4 @@
-[<img src="https://i.imgur.com/3IHoIGA.gif" width="100%">](https://www.github.com/avyaanverma)
+[<img src="https://i.imgur.com/3IHoIGA.gif" width="50%">](https://www.github.com/avyaanverma)
 
 <h1 align="center">Hi 👋, I'm Avyaan Verma</h1>
 <h3 align="center">I'm a Frontend Developer from India.</h3>
