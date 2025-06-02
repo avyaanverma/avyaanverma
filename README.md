@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Avyaan Verma</h1>
 <h3 align="center">I'm a FullStack Web Developer from India.</h3>
 
-<p align="left"> <a href="https://twitter.com/avyaan51295872" target="blank"><img src="https://img.shields.io/twitter/follow/avyaan51295872?logo=twitter&style=for-the-badge" alt="avyaan51295872" /></a> </p>
+<p align="left"> <a href="https://twitter.com/avyaanver" target="blank"><img src="https://img.shields.io/twitter/follow/avyaan51295872?logo=twitter&style=for-the-badge" alt="avyaan51295872" /></a> </p>
 
-- 🔭 I’m currently working on **NodeJS**
+- 🔭 I’m currently working on **React.js & Next.js**
 
 - 🌱 I’m currently learning **Frontend React.js and Next.js, Backend Development Node.js, Express.js**
 
