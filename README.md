@@ -1,15 +1,15 @@
 [<img src="https://i.imgur.com/3IHoIGA.gif" width="50%">](https://www.github.com/avyaanverma)
 
 <h1 align="center">Hi 👋, I'm Avyaan Verma</h1>
-<h3 align="center">I'm a FullStack Developer from India.</h3>
+<h3 align="center">I'm a FullStack Web Developer from India.</h3>
 
 <p align="left"> <a href="https://twitter.com/avyaan51295872" target="blank"><img src="https://img.shields.io/twitter/follow/avyaan51295872?logo=twitter&style=for-the-badge" alt="avyaan51295872" /></a> </p>
 
 - 🔭 I’m currently working on **NodeJS**
 
-- 🌱 I’m currently learning **TryHackMe Rooms, Backend Development, DSA Using Java**
+- 🌱 I’m currently learning **Frontend React.js and Next.js, Backend Development Node.js, Express.js**
 
-- 🤝 I’m looking for help with **Cyber Security**
+- 🤝 I’m looking for help with **OSS & Project Maintainence**
 
 - 💬 Ask me about **NodeJS, React, JavaScript, Linux, Networking, Python**
 
@@ -18,10 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt ="Coding" width ="400" src ="https://images.wsj.net/im-241728"></img>
 <p align="left">
-<a href="https://twitter.com/avyaan51295872" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avyaan51295872" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/avyaan-verma-9b5765245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avyaan-verma-9b5765245" height="30" width="40" /></a>
+<a href="https://twitter.com/avyaanver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avyaan51295872" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/avyaanverma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avyaan-verma-9b5765245" height="30" width="40" /></a>
 <a href="https://instagram.com/avyaanver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avyaanver" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/avyaanver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="avyaanver" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/avyaanver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avyaanver" height="30" width="40" /></a>
 </p>
 
