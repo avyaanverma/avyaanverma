@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/avyaanver" target="blank"><img src="https://img.shields.io/twitter/follow/avyaan51295872?logo=twitter&style=for-the-badge" alt="avyaan51295872" /></a> </p>
 
-- 🔭 I’m currently working on **React.js & Next.js**
+- 🔭 I’m currently working on **React.js & Next.js & Node.js**
 
-- 🌱 I’m currently learning **Frontend React.js and Next.js, Backend Development Node.js, Express.js**
+- 🌱 I’m currently learning **AI, OSS, **
 
-- 🤝 I’m looking for help with **OSS & Project Maintainence**
+- 🤝 I’m looking for help with **Next.js Web Dev and DSA**
 
 - 💬 Ask me about **NodeJS, React, JavaScript, Linux, Networking, Python**
 
-- 📫 How to reach me **avyaanver@gmail.com**
+- 📫 How to reach me **avyaanver@gmail.com, 9877869363**
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt ="Coding" width ="400" src ="https://images.wsj.net/im-241728"></img>
