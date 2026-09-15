@@ -94,21 +94,6 @@ I care about how systems actually work under the hood: architecture, performance
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=avyaanverma&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avyaanverma&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avyaanverma&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-
 ### 📫 Connect With Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/avyaanver)
