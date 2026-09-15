@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/3IHoIGA.gif" width="100%">
+<img src="./assets/laptop-loading.svg" width="100%">
 
 # Hi, I'm Avyaan Verma 👋
 
@@ -77,19 +77,6 @@ I care about how systems actually work under the hood: architecture, performance
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 </div>
-
----
-
-### 🌟 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[BoundaryLine](https://github.com/avyaanverma/boundaryline)** | *Add a one-line description of the problem it solves.* | *Add stack* |
-| **[FinComply](https://github.com/avyaanverma/fincomply)** | *Add a one-line description of the problem it solves.* | *Add stack* |
-| **[YouLaugh](https://github.com/avyaanverma/youlaugh)** | YouTube video downloader Chrome extension with a Flask/Python backend, deployed on Render; uses `bgutil-ytdlp-pot-provider` for authenticated downloads without personal cookies. | Flask, Python, Chrome Extension APIs, Docker |
-| **[Habitual](https://github.com/avyaanverma/habitual)** | Bento-style habit tracker dashboard with analytics, streak editing, and a built-in Pomodoro timer. | React, Next.js |
-
-> Replace the placeholder links/descriptions above with your actual repo URLs — GitHub repo names are case-sensitive and won't resolve automatically.
 
 ---
 
