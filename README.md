@@ -4,9 +4,9 @@
 
 # Hi, I'm Avyaan Verma 👋
 
-### Full-Stack Developer & AI Engineer — building scalable, secure, production-ready software
+### AI Agentic Engineer — building scalable, secure, production-ready software
 
-I build across the stack, with a growing focus on **AI engineering — LLM applications, RAG systems, and AI agents.**
+I build scalable production ready applications using **AI engineering — LLM applications, RAG systems, and AI agents.** and what is more to come.
 I care about how systems actually work under the hood: architecture, performance, security, and cost-efficiency at scale.
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/avyaanver)
@@ -17,9 +17,9 @@ I care about how systems actually work under the hood: architecture, performance
 
 </div>
 
----
+--- 
 
-### 🚀 Currently Building / Learning
+### 🚀 How much I know
 
 - 🤖 **AI Engineering** — LLM-powered applications, RAG pipelines, and AI agents (LangChain / LangGraph)
 - 🏗️ **System Design** — backend architecture, scalable and cost-efficient services
